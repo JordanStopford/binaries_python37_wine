@@ -1,19 +1,16 @@
-python3 installed files for wine
-================================
+python 3.7 installed files for wine
+=====================================
 
-since python 3.7.3 cant be installed on wine due to some bugs, here the installed binaries - they work fine
+since python 3.7 cant be installed on wine due to some bugs, here the installed binaries - they work fine
 
-python3.7.3_wine_32.zip  copy of installed python 3.7.3 32 Bit on Windows10
+current Versions:
 
-python3.7.3_wine_64.zip  copy of installed python 3.7.3 64 Bit on Windows10
+- Python 3.7.3 32 Bit
+- Python 3.7.3 64 Bit
 
 Installation
 ------------
 
-TBD
+see my project https://github.com/bitranox/lib_platform how to integrate Python on Wine on Travis.CI
 
-
-.. code-block:: bash
-
-    echo 'to be done'
 
