@@ -11,6 +11,4 @@ current Versions:
 Installation
 ------------
 
-see my project https://github.com/bitranox/lib_platform how to integrate Python on Wine on Travis.CI
-
-
+please look here : https://github.com/bitranox/install_python_on_wine_and_travis
